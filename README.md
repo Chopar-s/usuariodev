@@ -20,15 +20,14 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.umg.edu.gt/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
+- 🏫: Soy un desarrollador Junior en [Ingenieria en Sistemas ](https://umg.edu.gt/sistemas?_gl=1*11tfkts*_ga*MTM0NjI1NzU3Ni4xNzU5NTU3Mzcz*_ga_HV9W4QM6V6*czE3Njg1NDY5MTckbzI0JGcxJHQxNzY4NTQ4OTk1JGo2MCRsMCRoMA..)
+- :technologist: Me gusta aprender lenguajes de programacion para solucionar diferentes `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
